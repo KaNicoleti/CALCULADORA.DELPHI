@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/06 22:05:53.000.466,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/06 22:24:07.000.567,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas=R:\Ens Tecnico\2023\Desenvolvimento de Sistemas\2 Módulo\Desenvolvimento de Sistemas I\TurmaB\calculadora\untCalc.pas</Transaction>
+    <Transaction>2023/03/06 22:24:07.000.567,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.dfm=R:\Ens Tecnico\2023\Desenvolvimento de Sistemas\2 Módulo\Desenvolvimento de Sistemas I\TurmaB\calculadora\untCalc.dfm</Transaction>
+    <Transaction>2023/03/06 22:24:11.000.335,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Project1.dproj=R:\Ens Tecnico\2023\Desenvolvimento de Sistemas\2 Módulo\Desenvolvimento de Sistemas I\TurmaB\calculadora\prjCalc.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
